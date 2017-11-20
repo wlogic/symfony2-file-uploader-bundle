@@ -23,5 +23,5 @@
 		"psr-0": { "PunkAve\\FileUploaderBundle": "" }
 	},
 	"target-dir": "PunkAve/FileUploaderBundle",
-	"minimum-stability": "dev",
+	"minimum-stability": "dev"
 }
