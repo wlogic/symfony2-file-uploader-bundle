@@ -9,6 +9,7 @@ class FileUploader
     public function __construct($options)
     {
         $this->options = $options;
+        $this->options['request'] = $this->options['request']->getCurrentRequest();
     }
 
     /**
